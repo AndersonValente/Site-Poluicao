@@ -5,6 +5,30 @@
       charset=utf-8" />
   </head>
   <body>
+    <div style="border: 0px solid rgb(252,24,121);
+		            position:absolute;
+					top:10px;
+					left:10px;
+					height:1500px;
+					width:1200px;
+					margin-left:100px;">
+					
+			<div style="position:absolute; 
+			     top: 0px; 
+				left:0px;
+				height:200px; 
+				width:1200px; 
+				background-color:#006400 ;">
+				
+				
+											
+				<div style="position:absolute; 
+							top:60px; 
+							left:310px; 
+							height:90px; 
+							width:750px;">
+					<span style="color:#FFFAFA;font-size:50px;">Poluição</span>
+				</div>
   </body>
 
 </html>
