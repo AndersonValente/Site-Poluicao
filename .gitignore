@@ -88,3 +88,98 @@
 	</body>		
 		
 <html>
+
+<!-- Página com conteúdo sobre Poluição Água -->
+<html>
+	<head>
+		<!-- Título da Página -->
+		<title>Poluição Água</title>
+		<meta name="autor" content="Anderson Valente Ferreira e Daiane Selau Stedile">
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+		<link rel="stylesheet" href="formato.css" type="text/css">
+	<head>
+	</body>
+		<div id="titulo">
+			<span id="nome">POLUIÇÃO ÁGUA</span>
+			<!-- Logotipo Empresa -->
+			<a name="#minhaancora" href="index.html#minhaancora">
+				<img id="logo" src="ecologia.jpg" title="Ecologia" height= "170px" width= "200px"></img>
+			</a>
+			<div id="menu">
+				<img id="help" src="ajuda3.jpg" title="Ecologia" height="205px"width="235px">
+				<div id="navigation">
+					<ul id="navigation_bar">
+						</br>
+						</br>
+						<li><a href="conteudo1.html#minhaancora">Poluição Água</a></li>
+						</br>
+						</br>
+						<li><a href="conteudo2.html#minhaancora">Poluição Ar</a></li>
+						</br>
+						</br>
+						<li><a href="conteudo3.html#minhaancora">Poluição Terra</a></li>
+						</br>
+						</br>
+						<li><a href="index.html#minhaancora">Voltar</a></li>
+					</ul>
+				</div>
+				<img id="banner" style="position:absolute" src="banner.jpeg" title="Ecologia Company" height= "170px" width= "925px">
+					<p class="texto">
+					&nbsp &nbsp A poluição da água indica que um ou mais de seus usos foram prejudicados, podendo atingir o homem de forma direta,
+					pois ela é usada por este para ser bebida, para tomar banho, para lavar roupas e utensílios e, principalmente, 
+					para sua alimentação e dos animais domésticos. Além disso, abastece nossas cidades, sendo também utilizada nas indústrias e 
+					na irrigação de plantações. Por isso, a água deve ter aspecto limpo, pureza de gosto e estar isenta de microorganismos 
+					patogênicos, o que é conseguido através do seu tratamento, desde da retirada dos rios até a chegada nas residências 
+					urbanas ou rurais. A água de um rio é considerada de boa qualidade quando apresenta menos de mil coliformes fecais e menos 
+					de dez microorganismos patogênicos por litro (como aqueles causadores de verminoses, cólera, esquistossomose, febre tifóide, 
+					hepatite, leptospirose, poliomielite etc.). Portanto, para a água se manter nessas condições, deve-se evitar sua contaminação
+					por resíduos, sejam eles agrícolas (de natureza química ou orgânica), esgotos, resíduos industriais, lixo ou sedimentos 
+					vindos da erosão.</br>
+					&nbsp &nbsp Sobre a contaminação agrícola temos, no primeiro caso, os resíduos do uso de agrotóxicos (comum na agropecuária),
+					que provêm de uma prática muitas vezes desnecessária ou intensiva nos campos, enviando grandes quantidades de substâncias 
+					tóxicas para os rios através das chuvas, o mesmo ocorrendo com a eliminação do esterco de animais criados em pastagens. 
+					No segundo caso, há o uso de adubos, muitas vezes exagerado, que acabam por ser carregados pelas chuvas aos rios locais, 
+					acarretando o aumento de nutrientes nestes pontos; isso propicia a ocorrência de uma explosão de bactérias decompositoras 
+					que consomem oxigênio, contribuindo ainda para diminuir a concentração do mesmo na água, produzindo sulfeto de hidrogênio, 
+					um gás de cheiro muito forte que, em grandes quantidades, é tóxico. Isso também afetaria as formas superiores de vida animal 
+					e vegetal, que utilizam o oxigênio na respiração, além das bactérias aeróbicas, que seriam impedidas de decompor a matéria 
+					orgânica sem deixar odores nocivos através do consumo de oxigênio.</br>
+					&nbsp &nbsp Os resíduos gerados pelas indústrias, cidades e atividades agrícolas são sólidos ou líquidos, tendo um potencial
+					de poluição muito grande. Os resíduos gerados pelas cidades, como lixo, entulhos e produtos tóxicos são carreados para os
+					rios com a ajuda das chuvas. Os resíduos líquidos carregam poluentes orgânicos (que são mais fáceis de ser controlados do
+					que os inorgânicos, quando em pequena quantidade). As indústrias produzem grande quantidade de resíduos em seus processos,
+					sendo uma parte retida pelas instalações de tratamento da própria indústria, que retêm tanto resíduos sólidos quanto líquidos,
+					e a outra parte despejada no ambiente. No processo de tratamento dos resíduos também é produzido outro resíduo chamado 
+					"chorume", líquido que precisa novamente de tratamento e controle. As cidades podem ser ainda poluídas pelas enxurradas, pelo
+					lixo e pelo esgoto.</p>
+			</div>
+		</div>
+		<div id="rodape">
+			</br>
+			<span class="contato">
+				<b>Contatos:</b>
+			</span>
+			</br>
+			<span class="contato">
+				Telefone: 0800 606 0606
+			</span>
+			</br>
+			<span class="contato"> 
+				E-mail: <a href="anderson.valente888@gmail.com">contato@ecologiacompany.com.br</a>
+			</span>
+			</br>
+			<span class="contato">
+				Endereço:
+			</span>
+			<span class="contato">
+				Rua Gustavo Ramos Sehbe, 107</br>
+				Bairro Cinquentenário</br> 
+				Caxias do Sul  RS</br> 
+				CEP 95012-669</br> 
+				Telefone: (54) 3027 1300
+			</span>
+		</div>
+
+	</body>		
+		
+<html>
