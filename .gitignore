@@ -183,3 +183,179 @@
 	</body>		
 		
 <html>
+
+<!-- Página com conteúdo sobre Poluição Ar -->
+<html>
+	<head>
+		<!-- Título da Página -->
+		<title>Poluição Ar</title>
+		<meta name="autor" content="Anderson Valente Ferreira e Daiane Selau Stedile">
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+		<link rel="stylesheet" href="formato.css" type="text/css">
+	<head>
+	</body>
+		<div id="titulo">
+			<span id="nome">POLUIÇÃO AR</span>
+			<!-- Logotipo Empresa -->
+			<a name="#minhaancora" href="index.html#minhaancora">
+				<img id="logo" src="ecologia.jpg" title="Ecologia" height= "170px" width= "200px"></img>
+			</a>
+			<div id="menu">
+				<img id="help" src="ajuda3.jpg" title="Ecologia" height="205px"width="235px">
+				<div id="navigation">
+					<ul id="navigation_bar">
+						</br>
+						</br>
+						<li><a href="conteudo1.html#minhaancora">Poluição Água</a></li>
+						</br>
+						</br>
+						<li><a href="conteudo2.html#minhaancora">Poluição Ar</a></li>
+						</br>
+						</br>
+						<li><a href="conteudo3.html#minhaancora">Poluição Terra</a></li>
+						</br>
+						</br>
+						<li><a href="index.html#minhaancora">Voltar</a></li>
+					</ul>
+				</div>
+				<img id="banner" style="position:absolute" src="banner.jpeg" title="Ecologia Company" height= "170px" width= "925px">
+					<p class="texto">
+					&nbsp &nbsp A poluição do ar é um risco para a saúde das pessoas, a fumaça densa sobre as cidades é a forma mais familiar 
+					e óbvia de poluição do ar. Mas há diferentes tipos de poluição, algumas visíveis, outras invisível, que contribuem para 
+					o aquecimento global. Geralmente qualquer substância que as pessoas introduzem na atmosfera que tem efeitos prejudiciais 
+					sobre os seres vivos e o meio ambiente é considerada poluição do ar. </br>
+					&nbsp &nbspO Dióxido de carbono, um gás de efeito estufa, é o principal poluente que está aquecendo a Terra. 
+					Embora os seres vivos liberem dióxido de carbono quando respiram, ele é amplamente considerado como um poluente quando 
+					associado a carros, aviões, usinas elétricas e outras atividades humanas que envolvem a queima de combustíveis fósseis, 
+					como gasolina e gás natural. Nos últimos 150 anos, essas atividades têm bombeado dióxido de carbono para a atmosfera o 
+					suficiente para elevar os seus níveis. </br>
+					&nbsp &nbspOutro Produtos químicos de dióxido de enxofre estão estreitamente relacionados a uma das causas da chuva ácida.
+					Mas eles também refletem a luz quando liberado na atmosfera, o que mantém a luz do sol do lado de fora, e assim esfriando 
+					a Terra. As erupções vulcânicas podem expelir grandes quantidades de dióxido de enxofre na atmosfera, às vezes causando 
+					resfriamento que dura anos. Na verdade, vulcões costumavam ser a principal fonte de dióxido de enxofre na atmosfera, 
+					hoje são as pessoas</br>
+					&nbsp &nbsp Os países industrializados têm trabalhado para reduzir os níveis de dióxido de enxofre, e fumaça, a fim de 
+					melhorar a saúde das pessoas. A maioria das pessoas concordam que, para frear o aquecimento global, uma série de medidas 
+					precisam ser tomadas. Em um nível pessoal, dirigir e voar menos, reciclar e conservar pode ajudar a reduzir a 
+					emissão de gases que uma pessoa coloca na atmosfera. </br>
+					&nbsp &nbspEm Os governos estão tomando medidas para limitar as emissões de dióxido de carbono e
+					outros gases de efeito estufa. Através do Protocolo de Kyoto, um acordo entre os países, tem o objetivo de diminuir as
+					emissões de dióxido de carbono. </br>
+					&nbsp &nbsp Impactos ambientais e econômicos da poluição do ar são adversos e significativos. No entanto, existem
+					diferentes formas de prevenir a poluição do ar. Sem dúvida, as agências de proteção ambiental e o governo estão tomando 
+					medidas para reduzi-lo através da implementação de várias políticas. No entanto, esses esforços só se revelam realmente 
+					eficazes se cada cidadão agir de forma responsável com o meio ambiente.</p>
+			</div>
+		</div>
+		<div id="rodape">
+			</br>
+			<span class="contato">
+				<b>Contatos:</b>
+			</span>
+			</br>
+			<span class="contato">
+				Telefone: 0800 606 0606
+			</span>
+			</br>
+			<span class="contato"> 
+				E-mail: <a href="anderson.valente888@gmail.com">contato@ecologiacompany.com.br</a>
+			</span>
+			</br>
+			<span class="contato">
+				Endereço:
+			</span>
+			<span class="contato">
+				Rua Gustavo Ramos Sehbe, 107</br>
+				Bairro Cinquentenário</br> 
+				Caxias do Sul – RS</br> 
+				CEP 95012-669</br> 
+				Telefone: (54) 3027 1300
+			</span>
+		</div>
+
+	</body>		
+		
+<html>
+
+<!-- Página com conteúdo sobre Poluição Terra -->
+<html>
+	<head>
+		<!-- Título da Página -->
+		<title>Poluição Terra</title>
+		<meta name="autor" content="Anderson Valente Ferreira e Daiane Selau Stedile">
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+		<link rel="stylesheet" href="formato.css" type="text/css">
+	<head>
+	</body>
+		<div id="titulo">
+			<span id="nome">POLUIÇÃO TERRA</span>
+			<!-- Logotipo Empresa -->
+			<a name="#minhaancora" href="index.html#minhaancora">
+				<img id="logo" src="ecologia.jpg" title="Ecologia" height= "170px" width= "200px"></img>
+			</a>
+			<div id="menu">
+				<img id="help" src="ajuda3.jpg" title="Ecologia" height="205px"width="235px">
+				<div id="navigation">
+					<ul id="navigation_bar">
+						</br>
+						</br>
+						<li><a href="conteudo1.html#minhaancora">Poluição Água</a></li>
+						</br>
+						</br>
+						<li><a href="conteudo2.html#minhaancora">Poluição Ar</a></li>
+						</br>
+						</br>
+						<li><a href="conteudo3.html#minhaancora">Poluição Terra</a></li>
+						</br>
+						</br>
+						<li><a href="index.html#minhaancora">Voltar</a></li>
+					</ul>
+				</div>
+				<img id="banner" style="position:absolute" src="banner.jpeg" title="Ecologia Company" height= "170px" width= "925px">
+					<p class="texto"> 
+					&nbsp &nbsp O registro e mapeamento de áreas contaminadas e sua consequente recuperação demandam uma boa quantidade de
+					tempo e trabalho, dependendo de estudos profundos de geologia, hidrologia, química e simulação computadorizada.</br>
+					&nbsp &nbsp Um atual desafio relacionado ao tema é o dos pesticidas utilizados nas lavouras para a eliminação de pragas. 
+					Com o constante aumento da população e ocupação de áreas cada vez mais próximas a regiões de cultivo, torna-se 
+					questão de suma importância o equacionamento da utilização racional de materiais agrotóxicos e a consquente manutenção 
+					de um solo livre de poluentes e agentes tóxicos, que, fatalmente, entrarão em contato com o ser humano. Temos como 
+					principais pesticidas os utilizado no combate a insetos vetores de doenças contagiosas; a seguir temos os
+					herbicidas, utilizados na destruição de vegetação e ervas daninhas bem como espécies parasitárias, e finalmente, 
+					os fungicidas, atuantes no combate a fungos  que ameacem o desenvolvimento da cultura a ser desenvolvida.</br> 
+					&nbsp &nbsp Importante lembrar que o grau de concentração de cada agente danoso à saúde dos organismos vivos é um ponto
+					importante na contaminação do solo. A presença dos agentes contaminantes em determinado solo reflete de forma direta na
+					presença de vida naquela área, ocasionando sua degradação, redução do número de espécies presentes no terreno e a 
+					acumulação de agentes tóxicos na vegetação. Assim, indiretamente, por meio da cadeia trófica, a ocorrência de um solo
+					com agentes contaminadores pode assumir um aspecto bastante relevante, pois tais agentes, absorvidos e acumulados pela
+					vegetação serão transmitidos à fauna em doses muito superiores às que estes teriam por contato direto com o solo.</p>
+			</div>
+		</div>
+		<div id="rodape">
+			</br>
+			<span class="contato">
+				<b>Contatos:</b>
+			</span>
+			</br>
+			<span class="contato">
+				Telefone: 0800 606 0606
+			</span>
+			</br>
+			<span class="contato"> 
+				E-mail: <a href="anderson.valente888@gmail.com">contato@ecologiacompany.com.br</a>
+			</span>
+			</br>
+			<span class="contato">
+				Endereço:
+			</span>
+			<span class="contato">
+				Rua Gustavo Ramos Sehbe, 107</br>
+				Bairro Cinquentenário</br> 
+				Caxias do Sul – RS</br> 
+				CEP 95012-669</br> 
+				Telefone: (54) 3027 1300
+			</span>
+		</div>
+
+	</body>		
+		
+<html>
